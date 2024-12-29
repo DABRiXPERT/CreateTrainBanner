@@ -10,7 +10,7 @@
 - 下一個區間閉塞標誌(Block Signal Distance): `500*750`  
 - 下一站距離標誌(Station Distance): `500*750`  
 - 車輛停靠位置標誌(Train Stop Position): `500*750`  
-- 乘車位置(Cab-No): `500*1000`
+- 乘車位置/車輛機廠停靠位置(Cab-No): `500*1000`
 - 禁止進入告示(Do Not Enter): `3000*750`
 - 緊急出口告示(Emergency Exit): `3000*750`
 
